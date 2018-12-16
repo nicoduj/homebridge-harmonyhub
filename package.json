@@ -1,7 +1,7 @@
 {
   "name": "homebridge-harmonyhub-nicoduj",
   "description": "Logitech Harmony Hub plugin for HomeBridge",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "repository": {
     "type": "git",
     "url": "git://github.com/nicoduj/homebridge-harmonyhub.git"
