@@ -1,10 +1,10 @@
 {
-  "name": "homebridge-harmonyhub",
+  "name": "homebridge-harmonyhub-nicoduj",
   "description": "Logitech Harmony Hub plugin for HomeBridge",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "repository": {
     "type": "git",
-    "url": "git://github.com/kraigm/homebridge-harmonyhub.git"
+    "url": "git://github.com/nicoduj/homebridge-harmonyhub.git"
   },
   "license": "ISC",
   "preferGlobal": true,
@@ -18,8 +18,8 @@
   "dependencies": {
     "bluebird": "^3.3.4",
     "debug": "^2.2.0",
-    "@harmonyhub/client": "^1.0.5",
-    "@harmonyhub/discover": "^1.0.5",
+    "harmonyhubjs-client": "^1.1.11",
+    "harmonyhubjs-discover": "^1.1.1",
     "inherits": "^2.0.1",
     "queue": "^3.1.0",
     "lodash": "^4.6"
